@@ -1,4 +1,4 @@
-# TDS-Project-1
+#                                               TDS-Project-1
 
 ## Explanation of Data Scraping Process
 The data was scraped using the GitHub API through the Octokit library in Node.js, with authentication handled by dotenv.
