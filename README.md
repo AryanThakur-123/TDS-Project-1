@@ -12,7 +12,7 @@ Python, though highly popular globally and after being such a easy language, was
 Focus on building JavaScript skills if you’re a developer in Bangalore, especially if you're newer to the field. With its high popularity, especially among recent GitHub users, proficiency in JavaScript could increase job opportunities and collaboration potential in the local tech community.
 
 
-### Few additional recommendationa:
+### Few additional recommendations:
 Focus on Star Quality: Since repositories with high stars are more visible, developers could work on polishing their top projects. Adding thorough documentation, useful features, and eye-catching READMEs can increase star count.
 
 Leverage Popular Languages: If you observe certain languages (like JavaScript or Python) getting more stars per repository, consider creating high-quality projects in these languages to attract more attention and followers.
