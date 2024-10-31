@@ -10,3 +10,13 @@ Python, though highly popular globally and after being such a easy language, was
 
 ## Recommendation for developers
 Focus on building JavaScript skills if you’re a developer in Bangalore, especially if you're newer to the field. With its high popularity, especially among recent GitHub users, proficiency in JavaScript could increase job opportunities and collaboration potential in the local tech community.
+
+
+### Few additional recommendationa:
+Focus on Star Quality: Since repositories with high stars are more visible, developers could work on polishing their top projects. Adding thorough documentation, useful features, and eye-catching READMEs can increase star count.
+
+Leverage Popular Languages: If you observe certain languages (like JavaScript or Python) getting more stars per repository, consider creating high-quality projects in these languages to attract more attention and followers.
+
+Enable Wiki and Projects: Repositories with active wikis and project boards may attract more collaborators. Make these features accessible to showcase project planning and documentation.
+
+Choose the Right License: If you identified the most popular licenses, using one of them might encourage contributions and make your code more shareable.
