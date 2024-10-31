@@ -8,5 +8,5 @@ fetch_repo.js fetched repositories for each user, storing data like stars, watch
 ## Most interesting and surprising fact
 Python, though highly popular globally and after being such a easy language, wasn't the top language for users in Bangalore even who joined after 2020—JavaScript took the lead. This could indicate a regional preference for web development skills among newer developers.
 
-## recommendation for developers
+## Recommendation for developers
 Focus on building JavaScript skills if you’re a developer in Bangalore, especially if you're newer to the field. With its high popularity, especially among recent GitHub users, proficiency in JavaScript could increase job opportunities and collaboration potential in the local tech community.
