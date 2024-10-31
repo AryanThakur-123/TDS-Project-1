@@ -13,14 +13,14 @@ Focus on building JavaScript skills if you’re a developer in Bangalore, especi
 
 
 ### Few additional recommendations:
-### Focus on Star Quality:
+#### Focus on Star Quality:
 Since repositories with high stars are more visible, developers could work on polishing their top projects. Adding thorough documentation, useful features, and eye-catching READMEs can increase star count.
 
-### Leverage Popular Languages: 
+#### Leverage Popular Languages: 
 If you observe certain languages (like JavaScript or Python) getting more stars per repository, consider creating high-quality projects in these languages to attract more attention and followers.
 
-### Enable Wiki and Projects: 
+#### Enable Wiki and Projects: 
 Repositories with active wikis and project boards may attract more collaborators. Make these features accessible to showcase project planning and documentation.
 
-### Choose the Right License: 
+#### Choose the Right License: 
 If you identified the most popular licenses, using one of them might encourage contributions and make your code more shareable.
